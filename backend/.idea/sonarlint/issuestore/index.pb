@@ -9,3 +9,5 @@ J
 PPP---EurekaServer/pom.xml,d\6\d6db06e699aff19c991a5f5f8ee07a0640fe51a1
 Ö
 Uspring-boot-3-jwt-security/src/main/java/com/alibou/security/SecurityApplication.java,e\3\e3a32d22fca01149f0f19afb982c2f2a3af63d99
+è
+_spring-boot-3-jwt-security/src/main/java/com/alibou/security/auth/AuthenticationController.java,1\4\149fb9fe2d1a06adba89e8231be4f6c5e66aa8e1
